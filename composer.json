@@ -17,7 +17,7 @@
         "froiden/envato": "^1.0",
         "froiden/laravel-installer": "^1.6",
         "guzzlehttp/guzzle": "^6.3",
-        "intervention/image": "3.8.0",
+        "intervention/image": "2.7.x-dev",
         "laravel/cashier": "^10.5",
         "laravel/framework": "^7.0",
         "laravel/tinker": "^2.0",
